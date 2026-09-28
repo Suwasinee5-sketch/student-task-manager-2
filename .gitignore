@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.vscode/
+.DS_Store
+data/*
+!data/.gitkeep
+!data/sample_timetable.csv
+data/uploads/
